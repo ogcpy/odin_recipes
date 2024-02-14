@@ -1,1 +1,15 @@
 /* styles.css */
+div {
+    color:rgb(0, 255, 247);
+    background-color: orange;
+}
+
+p {
+    color: green;
+    background-color: blue;
+}
+
+button {
+    color: red;
+    background-color: purple;
+}
