@@ -23,25 +23,12 @@ header {
 }
 
 .container {
+    border: 5px;
+    border-color: red;
+    display: flex;
     background-color: lightcoral;
     width: 80%;
     margin: 0 auto;
-}
-
-section {
-    float: left;
-    width: 70%;
-    margin-bottom:100px ;
-}
-
-ul {
-    list-style: none;
-}
-
-.aside {
-    padding-right: 200px;
-    float: right;
-    width: 25%
 }
 
 footer {
